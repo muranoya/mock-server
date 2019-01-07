@@ -1,0 +1,7 @@
+[network]
+address = ":8080"
+
+[[endpoint]]
+path = "/hello"
+allow_method = ["GET"]
+plugin = "example/example.so"

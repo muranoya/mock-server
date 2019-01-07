@@ -1,0 +1,3 @@
+fmt.Fprintln
+fmt.Fprintf
+(net/http.ResponseWriter).Write
